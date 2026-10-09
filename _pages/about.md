@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome
-
 I am Md. Dilshadul Alam Maruf, a Mechanical Engineering graduate from Rajshahi University of Engineering & Technology (RUET), Bangladesh. My academic and research interests lie at the intersection of materials engineering, electrochemical energy storage, and advanced functional materials.
 
 My long-term research goal is to contribute to the development of next-generation energy-storage technologies through experimental materials synthesis, electrode fabrication, characterization, and electrochemical performance evaluation. I am particularly interested in understanding how material composition, microstructure, surface properties, and electrode–electrolyte interactions influence battery performance, stability, and durability.
